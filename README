@@ -1,0 +1,10 @@
+# Brick Backend Engineer Assignment Poltak Bonatua Tobing
+
+Tested on Python version 3.7.12
+
+Examplar output CSV can be found under ./resources/examplar.csv
+
+How to run:
+1. Run `pip install -r requirements.txt`
+2. After downloading all the necessary requirements, run `python3 src/main.py`
+3. CSV will be generated at **./results.csv**
